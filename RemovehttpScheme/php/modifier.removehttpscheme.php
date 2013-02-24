@@ -2,7 +2,7 @@
     if ($args !=1) {
         return $str;
     }
-    $pattern = '/^http?\:\/\//';
+    $pattern = '/^https?\:\/\//';
         if ( preg_match ($pattern , $str) ) {
             $str = preg_replace ( $pattern, '', $str );
         }
