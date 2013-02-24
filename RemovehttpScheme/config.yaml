@@ -1,0 +1,12 @@
+id: RemovehttpScheme
+key: RemovehttpScheme
+name: Remove http Scheme Modifier
+version: 0.1
+description: Remove http or https scheme
+author_name: maRk
+author_link: http://www.markdiary.com/
+doc_link: https://bitbucket.org/markdiarycom/mt-plugin-removehttpscheme
+
+tags:
+    modifier:
+        RemovehttpScheme: $RemovehttpScheme::RemovehttpScheme::Tags::remove_http
